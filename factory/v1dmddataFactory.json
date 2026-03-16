@@ -1,0 +1,9 @@
+{
+	"name": "v1dmddataFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b801056e-a735-4ed4-859d-8f668964710d",
+		"tenantId": "fc767d25-d649-4d67-8940-1655823d5f32"
+	}
+}
